@@ -28,5 +28,6 @@ public class Gaulois {
 		romain.recevoirCoup(force/3);}
 	
 	
+	
 	}
 
