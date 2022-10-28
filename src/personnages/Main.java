@@ -14,7 +14,9 @@ public class Main{
 	asterix.frapper(Minus);
 	asterix.frapper(Minus);
 	
-	Druide Panoramix=new Druide("Panoramix",5,10);
+//	Druide Panoramix=new Druide("Panoramix",5,10);
+	
+//	System.out.println(Equipement.CASQUE);
 	
 	
 	}
