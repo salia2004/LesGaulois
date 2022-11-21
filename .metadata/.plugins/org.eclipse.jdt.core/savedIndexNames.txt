@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+/Users/macbookair/POO/workspace/GauloisGit/.metadata/.plugins/org.eclipse.jdt.core
+4172075406.index
+1672717289.index
+1865797976.index

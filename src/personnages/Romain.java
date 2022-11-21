@@ -142,7 +142,7 @@ public class Romain {
            }}
         	return equipementEjecte; }
 
-	/*public static void main(String[] args) 
+	   public static void main(String[] args) 
 		{
 		    Gaulois asterix=new Gaulois("asterix",8);
 			Gaulois Obélix=new Gaulois("Obélix",6);
@@ -167,7 +167,7 @@ public class Romain {
 			minuse.sEquiper(Equipement.CASQUE);
 			
 		}
-*/
+
 
 }
 

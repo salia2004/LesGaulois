@@ -1,0 +1,19 @@
+
+
+java:S14882"]Immediately return this expression instead of assigning it to the temporary variable "texte".(ÆøùàúÿÿÿÿHARMINORZ
+CODE_SMELL
+k	java:S125"<This block of commented-out lines of code should be removed.(òß¿•üÿÿÿÿHDRMAJORZ
+CODE_SMELL
+c	java:S106"9Replace this use of System.out or System.err by a logger.(ìÀ×ÊHGRMAJORZ
+CODE_SMELL
+k	java:S125!"<This block of commented-out lines of code should be removed.(ê ”ŒøÿÿÿÿHHRMAJORZ
+CODE_SMELL
+f	java:S125-"<This block of commented-out lines of code should be removed.(Ú°à¬HKRMAJORZ
+CODE_SMELL
+b	java:S1067"9Replace this use of System.out or System.err by a logger.(ëå‰PHNRMAJORZ
+CODE_SMELL
+W
+java:S1172>",Remove this unused method parameter "musee".(ŸÔÏHORMAJORZ
+CODE_SMELL
+c	java:S106D"9Replace this use of System.out or System.err by a logger.(Ë½õòHQRMAJORZ
+CODE_SMELL

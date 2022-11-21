@@ -1,0 +1,33 @@
+
+y
+java:S1192/"KDefine a constant instead of duplicating this literal "Le soldat " 3 times.(­Ö¡ùH	RCRITICALZ
+CODE_SMELL
+{
+java:S1301U"KReplace this "switch" statement by "if" statements to increase readability.(”Ì ûÿÿÿÿHRMINORZ
+CODE_SMELL
+c	java:S106"9Replace this use of System.out or System.err by a logger.(ìÀ×ÊHRMAJORZ
+CODE_SMELL
+k	java:S125!"<This block of commented-out lines of code should be removed.(ú§¥¥úÿÿÿÿHRMAJORZ
+CODE_SMELL
+}	java:S1282"LEnd this switch case with an unconditional break, return or throw statement.(ªëÅŞúÿÿÿÿHRBLOCKERZ
+CODE_SMELL
+c	java:S106/"9Replace this use of System.out or System.err by a logger.(­Ö¡ùHRMAJORZ
+CODE_SMELL
+b	java:S1067"9Replace this use of System.out or System.err by a logger.(Âå—HRMAJORZ
+CODE_SMELL
+h	java:S106="9Replace this use of System.out or System.err by a logger.(³ÊÚùÿÿÿÿHRMAJORZ
+CODE_SMELL
+}	java:S128W"LEnd this switch case with an unconditional break, return or throw statement.(£Ş¾ËşÿÿÿÿHRBLOCKERZ
+CODE_SMELL
+k	java:S125L"<This block of commented-out lines of code should be removed.(¯’±ÆüÿÿÿÿHRMAJORZ
+CODE_SMELL
+c	java:S106{"9Replace this use of System.out or System.err by a logger.(Ìñ“ÇH#RMAJORZ
+CODE_SMELL
+b	java:S106|"9Replace this use of System.out or System.err by a logger.(¨Ô¿H$RMAJORZ
+CODE_SMELL
+c	java:S106~"9Replace this use of System.out or System.err by a logger.(Ìñ“ÇH%RMAJORZ
+CODE_SMELL
+i	java:S106†"9Replace this use of System.out or System.err by a logger.(üğ§üÿÿÿÿH&RMAJORZ
+CODE_SMELL
+l	java:S125’"<This block of commented-out lines of code should be removed.(ÒÌâ–øÿÿÿÿH'RMAJORZ
+CODE_SMELL
